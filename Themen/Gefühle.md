@@ -1,5 +1,7 @@
 # Gefühle
 
+> **Nuancen**: sich freuen auf / über / für · -ig / -lich — siehe [unten](#nuancen).
+
 ## Stufe 1a — Nomen
 
 | Situation / Frage | Antwort |
@@ -16,6 +18,7 @@
 | Paul, Tränen. Mama nimmt ihn in den Arm. | Mama tröstet ihn. |
 | Lisa weg. Paul denkt immer an sie. | Er verMISST Lisa. |
 | Morgen Zoo! Nele hüpft. | Sie freut sich auf den Zoo. |
+| Geschenk ist da! Nele lacht. | Sie freut sich über das Geschenk. |
 
 ## Stufe 1c — Adjektive
 
@@ -147,3 +150,50 @@
 | Paul weint laut und lange, er kann nicht aufhören. | Er weint bitterlich. |
 | Morgen kommt Oma! Die Kinder springen herum. | Sie freuen sich riesig. |
 | Lisa ist seit einer Woche weg. Paul denkt nur an sie. | Er vermisst sie schrecklich. |
+
+---
+
+## Nuancen
+
+### sich freuen auf vs. über vs. für
+
+**Критерий — время и адресат радости.**
+
+- **auf + Akk** — радость о том, что **ещё будет**: жду с нетерпением. *Ich freue mich auf den Urlaub.* (отпуск ещё впереди)
+- **über + Akk** — радость о том, что **уже есть или уже случилось**. *Ich freue mich über das Geschenk.* (подарок уже в руках)
+- **für + Akk** — радость **за другого человека**: хорошее случилось у него. *Ich freue mich für dich!* (у тебя родился ребёнок)
+
+**Проверка:** это ещё впереди → *auf*. Это уже здесь → *über*. Это случилось у другого → *für*.
+
+**Типичные контексты:**
+- *auf*: *auf morgen, auf das Wochenende, auf die Ferien, auf den Geburtstag, auf deinen Besuch*
+- *über*: *über das Geschenk, über das Zeugnis, über den Besuch, über deine Nachricht*
+- *für*: *für dich, für euch, für deine Schwester*
+
+**Где замена меняет смысл:** *Ich freue mich auf deinen Besuch* — ты ещё приедешь. *Ich freue mich über deinen Besuch* — ты уже здесь.
+
+**Вопросы:** *Worauf? / Auf wen?* — *Worüber? / Über wen?* — *Für wen?*
+
+**Все три в одной ситуации:**
+- Nele freut sich auf ihren Geburtstag morgen.
+- Heute ist der Geburtstag. Sie freut sich über die Geschenke.
+- Oma ruft an: „Ich freue mich für dich, mein Schatz!“
+
+### -ig vs. -lich (Rechtschreibung)
+
+**Проблема:** в стандартном немецком конечное **-ig** звучит как [ɪç], то есть как *-ich*. Поэтому *traurig* и *glücklich* на конце звучат одинаково. На юге Германии и в Австрии говорят [ɪk], там -ig слышно.
+
+**Подсказка 1 — поставить окончание (самая надёжная).** Когда после суффикса появляется гласная, звук становится слышен:
+- *traurig* → *die traurig**e** Frau* — слышно **[g]** → пишем **-ig**
+- *glücklich* → *die glücklich**e** Frau* — слышно **[ç]** → пишем **-lich**
+
+**Подсказка 2 — есть ли l перед окончанием.** Если перед окончанием слышен звук *l*, почти всегда пишется **-lich**: *glücklich, fröhlich, freundlich, ängstlich, herzlich*. Исключения — слова, где *l* входит в сам корень, а суффикс **-ig**: *billig, eilig, völlig, eklig* (проверка: *billige, eilige* — слышно [g]).
+
+**Ориентир по смыслу (не правило):**
+- **-ig** часто образуется от существительного и значит «полный этого / с этим»: *Lust → lustig, Wind → windig, Sonne → sonnig, Schmutz → schmutzig*.
+- **-lich** часто значит «такой, как …» или «касающийся …»: *Freund → freundlich, Angst → ängstlich, Herz → herzlich*.
+
+**Слова из файла и близкие к ним:**
+- -ig: *traurig*
+- -lich: *glücklich, fröhlich, ängstlich, herzlich*
+- ни то ни другое: *wütend, stolz, zufrieden, böse, gemein, müde, allein*
