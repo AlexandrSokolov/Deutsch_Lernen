@@ -1,45 +1,90 @@
 # Gefühle
 
-## Stufe 1 — Situation → Gefühl
+## Stufe 1a — Nomen
 
 | Situation / Frage | Antwort |
 |---|---:|
-| Lisa ist nicht da. Paul sagt nichts, er hat Tränen in den Augen. | Er ist traurig. |
-| Julian fällt vom Fahrrad und ruft: „Blödes Fahrrad!“ | Er ist wütend. |
-| Ella hat neue Buntstifte, aber Finn darf nicht damit malen. | Ella ist geMEIN. |
-| Nele bekommt bald eine Schwester. Sie lacht den ganzen Tag. | Sie ist glücklich. |
-| Amelie sitzt auf dem Töpfchen. Sie braucht keine Windeln mehr! | Sie ist stolz. |
-| Jonathan hat seinen Schnuller wieder und nuckelt leise. | Er ist zuFRIEden. |
-| Klara hat Teddy ins Ohr gebissen. Luisa ruft: „Klara ist blöd!“ | Luisa ist böse auf Klara. |
-| Lukas hatte in der Nacht Bauchschmerzen. Im Zoo schläft er. | Er ist sehr müde. |
-| Stella schläft zum ersten Mal in ihrem eigenen Zimmer, ohne Jonathan. | Sie ist alLEIN. |
+| Paul. Augen nass. | Er hat Tränen in den Augen. |
+| Geschenk! Nele springt hoch. | Sie springt vor Freude. |
+| Großer Hund. Finn zittert. | Er hat Angst. |
 
-## Stufe 2 — Fragen
+## Stufe 1b — Verben
+
+| Situation / Frage | Antwort |
+|---|---:|
+| Paul, Tränen, laut. | Er weint. |
+| Paul, Tränen. Mama nimmt ihn in den Arm. | Mama tröstet ihn. |
+| Lisa weg. Paul denkt immer an sie. | Er verMISST Lisa. |
+| Morgen Zoo! Nele hüpft. | Sie freut sich auf den Zoo. |
+
+## Stufe 1c — Adjektive
+
+| Situation / Frage | Antwort |
+|---|---:|
+| Lisa weg. Paul still, Tränen in den Augen. | Er ist traurig. |
+| Julian fällt vom Fahrrad: „Blödes Fahrrad!“ | Er ist wütend. |
+| Ella: neue Buntstifte. Finn darf nicht malen. | Ella ist geMEIN. |
+| Nele bekommt eine Schwester. Lacht den ganzen Tag. | Sie ist glücklich. |
+| Amelie: Töpfchen, keine Windeln mehr! | Sie ist stolz. |
+| Jonathan: Schnuller wieder da, nuckelt leise. | Er ist zuFRIEden. |
+| Klara beißt Teddy. Luisa: „Klara ist blöd!“ | Luisa ist böse auf Klara. |
+| Lukas: nachts Bauchschmerzen. Im Zoo schläft er. | Er ist sehr müde. |
+| Stella: zum ersten Mal eigenes Zimmer, ohne Jonathan. | Sie ist alLEIN. |
+
+## Stufe 2 — Artikel
+
+| Situation / Frage | Antwort |
+|---|---:|
+| Paul weint. (Tränen, abwischen) | Mama wischt die ab. |
+| Finn zittert. Ist das Angst? (Angst, kennen) | Ja, die kenne ich. |
+| Nele springt hoch. (Freude, sehen) | Die sieht man! |
+| Pauls Wangen sind nass. (Tränen, nass) | Sie sind nass von denen. |
+
+## Stufe 3 — Fragen
 
 | Situation / Frage | Antwort |
 |---|---:|
 | \_\_\_ w\_\_ ist Mama stolz? (Amelie) | (Auf wen?) Sie ist stolz auf Amelie. |
-| W\_\_\_ ist Papa stolz? (🚗 das neue Auto) | (Worauf?) Er ist stolz auf das neue Auto. |
+| W\_\_ ist Papa stolz? (🚗 neues Auto) | (Worauf?) Er ist stolz auf das neue Auto. |
 | \_\_\_ w\_\_ ist Luisa böse? (Klara) | (Auf wen?) Sie ist böse auf Klara. |
-| W\_\_\_ ist Julian wütend? (🚲) | (Worauf?) Er ist wütend auf das Fahrrad. |
-| W\_\_\_ ist Jonathan zufrieden? (der Schnuller) | (Womit?) Er ist mit seinem Schnuller zufrieden. |
+| W\_\_ ist Julian wütend? (🚲) | (Worauf?) Er ist wütend auf das Fahrrad. |
+| W\_\_ ist Jonathan zufrieden? (Schnuller) | (Womit?) Er ist mit seinem Schnuller zufrieden. |
 | \_\_\_ w\_\_ ist der Chef zufrieden? (ich) | (Mit wem?) Er ist mit mir zufrieden. |
-| \_\_\_ w\_\_ freut sich Nele? (die Schwester, kommt bald) | (Auf wen?) Sie freut sich auf ihre Schwester. |
-| W\_\_\_ freut sich Marie? (das Laufrad, ist schon da) | (Worüber?) Sie freut sich über das Laufrad. |
-| W\_\_ vermisst Paul? (Lisa) | (Wen?) Er vermisst seine Schwester. |
+| \_\_\_ w\_\_ freut sich Nele? (Schwester, kommt bald) | (Auf wen?) Sie freut sich auf ihre Schwester. |
+| W\_\_ freut sich Marie? (Laufrad, ist schon da) | (Worüber?) Sie freut sich über das Laufrad. |
+| W\_\_ vermisst Paul? (Schwester) | (Wen?) Er vermisst seine Schwester. |
+| W\_\_ tröstet Mama? (Paul) | (Wen?) Sie tröstet ihn. |
+| W\_\_ hat Finn Angst? (⛈️ Gewitter) | (Wovor?) Er hat Angst vor dem Gewitter. |
+| W\_\_ weint Nele? (Freude) | (Warum?) Vor Freude. |
 
-## Stufe 3 (Imperativ)
+## Stufe 4 — da-Wörter
+
+| Situation / Frage | Antwort |
+|---|---:|
+| Amelie: keine Windeln mehr! | Sie ist stolz darauf. |
+| Der Bus ist schon wieder zu spät. | Ich bin wütend darüber. |
+| Neuer Job, tolles Projekt. | Ich bin sehr zufrieden damit. |
+| Morgen: Zoo! | Die Kinder freuen sich darauf. |
+| Das Laufrad ist schon da. Marie lacht. | Sie freut sich darüber. |
+| Gewitter. Finn sitzt unter dem Tisch. | Er hat Angst davor. |
+| Klara beißt Teddy. Und Luisa? | Sie ist böse auf sie. |
+
+## Stufe 5 — Imperativ
 
 | Situation / Frage | Antwort |
 |---|---:|
 | Dein Sohn weint, weil sein Turm kaputt ist. | Sei nicht traurig! |
-| Die Kinder sind sauer auf ihre Schwester. Jetzt sagt sie: „Entschuldigung.“ | Seid nicht mehr böse! |
+| Die Schwester hat die Kinder geärgert. Jetzt sagt sie: „Entschuldigung.“ | Seid nicht mehr böse! |
 | Deine Tochter kann endlich schwimmen, aber sie sagt: „Das war doch nichts.“ | Sei stolz auf dich! |
 | Dein Sohn nimmt seiner Schwester alle Stifte weg. | Sei nicht so gemein! |
 | Morgen gehen die Kinder in den Zoo. | Freut euch auf morgen! |
 | Du hast einen Fehler gemacht. Eine Kollegin ist sauer auf dich. | Seien Sie bitte nicht böse! |
+| Dein Kind fällt hin. Es ist nicht schlimm. | Wein nicht! |
+| Gewitter. Die Kinder zittern. | Habt keine Angst! |
+| Der Kleine weint. Zu den großen Geschwistern: | Tröstet ihn! |
+| Du fährst eine Woche weg. Zu deiner Frau: | Vermiss mich nicht zu sehr! |
 
-## Stufe 4 (Zeiten)
+## Stufe 6 — Zeiten
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -49,12 +94,15 @@
 | – Amelie braucht keine Windeln mehr.<br>– Und gestern, beim ersten Mal? | – Sie ist stolz.<br>– Gestern war sie auch stolz. |
 | Ella hat Finn die Stifte nicht gegeben. Später malen sie zusammen. Und am Anfang? | Am Anfang war Ella gemein. |
 | Der Chef hat gestern dein Projekt gesehen. Und? | Er war sehr zufrieden mit mir. |
-| Wie steht es im Buch? (Paul, ohne seine Schwester, sich fühlen) | Ohne seine Schwester fühlte sich Paul ganz allein. |
+| Wie steht es im Buch? (Paul, ohne seine Schwester) | Ohne seine Schwester war Paul ganz allein. |
 | Morgen kommt Lisa zurück. Und Paul? | Morgen wird er wieder glücklich sein. |
 | Stell dir vor: Du bekommst morgen einen guten Job. | Dann wäre ich sehr glücklich. |
 | Stella ist zum ersten Mal allein im Zimmer. Und du an ihrer Stelle? | Ich wäre auch nicht gern allein. |
+| – Gestern Abend: Paul, viele Tränen.<br>– Und Mama? | – Er hat geweint.<br>– Mama hat ihn getröstet. |
+| Wie steht es im Buch? (Paul, Lisa, jeden Tag) | Paul vermisste Lisa jeden Tag. |
+| Gestern Gewitter. Und Finn? | Er hatte große Angst. |
 
-## Stufe 5 (Ausdrücke)
+## Stufe 7 — Ausdrücke
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -70,8 +118,13 @@
 | Du lernst jemanden kennen. Er sagt seinen Namen. | Freut mich! |
 | Dein Handy war weg, aber dann findest du es. | Zum Glück! |
 | Im Vorstellungsgespräch: „Arbeiten Sie lieber im Team?“ | Ich arbeite gern im Team, aber auch allein. |
+| Ein Freund ruft nach einem Jahr wieder an. | Ich habe dich vermisst! |
+| Morgen Präsentation vor dem Chef. Du bist nervös. | Ich habe ein bisschen Angst davor. |
+| Kollege: „Nicht schlimm, das passiert jedem.“ | Das tröstet mich. |
+| Der Film ist sehr traurig. | Mir kommen die Tränen. |
+| Du bekommst eine tolle Nachricht. | Was für eine Freude! |
 
-## Stufe 6 (Adjektiv + Nomen)
+## Stufe 8a — Adjektiv + Nomen
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -84,14 +137,13 @@
 | Die Kunden sind zufrieden. Wir haben viel\_ zufrieden\_ Kunden. | Wir haben viele zufriedene Kunden. |
 | Der Papa ist müde. Dies\_ müd\_ Papa braucht Kaffee. ☕ | Dieser müde Papa braucht Kaffee. |
 | Der Hund ist böse. Mit dies\_ bös\_ Hund spiele ich nicht. | Mit diesem bösen Hund spiele ich nicht. |
+| Paul hat dick\_ Tränen in den Augen. | Paul hat dicke Tränen in den Augen. |
+| Oma kommt! Das ist ein\_ groß\_ Freude. | Das ist eine große Freude. |
 
-## Stufe 7 (Nebensätze)
+## Stufe 8b — Adverb + Verb
 
 | Situation / Frage | Antwort |
 |---|---:|
-| Warum ist Paul traurig? (Lisa, nicht zu Hause sein) | Er ist traurig, weil Lisa nicht zu Hause ist. |
-| Warum ist Nele so glücklich? (eine Schwester bekommen) | Sie ist glücklich, dass sie eine Schwester bekommt. |
-| Worauf ist Amelie stolz? (keine Windeln mehr brauchen) | Sie ist stolz darauf, dass sie keine Windeln mehr braucht. |
-| Wie müde ist Lukas? (im Zoo einschlafen) | Er ist so müde, dass er im Zoo einschläft. |
-| Wann ist Mama zufrieden? (Kinder, Zimmer aufräumen) | Sie ist zufrieden, wenn die Kinder ihr Zimmer aufräumen. |
-| Stella ist müde. Und? (nicht einschlafen können) | Obwohl sie müde ist, kann sie nicht einschlafen. |
+| Paul weint laut und lange, er kann nicht aufhören. | Er weint bitterlich. |
+| Morgen kommt Oma! Die Kinder springen herum. | Sie freuen sich riesig. |
+| Lisa ist seit einer Woche weg. Paul denkt nur an sie. | Er vermisst sie schrecklich. |
