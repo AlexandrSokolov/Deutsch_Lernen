@@ -1,6 +1,6 @@
 # Gefühle
 
-> **Nuancen**: sich freuen auf / über / für · -ig / -lich — siehe [unten](#nuancen).
+> **Nuancen**: Präpositionen in diesem Thema · sich freuen auf / über / für · jemandem die Angst nehmen · -ig / -lich — siehe [unten](#nuancen).
 
 ## Stufe 1a — Nomen
 
@@ -25,10 +25,12 @@
 | Situation / Frage | Antwort |
 |---|---:|
 | Lisa weg. Paul still, Tränen in den Augen. | Er ist traurig. |
-| Julian fällt vom Fahrrad: „Blödes Fahrrad!“ | Er ist wütend. |
-| Ella: neue Buntstifte. Finn darf nicht malen. | Ella ist geMEIN. |
+| Julian fällt vom Fahrrad: „Blödes Fahrrad!“ | Er ist wütend auf das Fahrrad. |
+| Ella: neue Buntstifte. Finn darf nicht malen. | Ella ist geMEIN zu Finn. |
 | Nele bekommt eine Schwester. Lacht den ganzen Tag. | Sie ist glücklich. |
+| Laufrad ist da! Marie lacht und lacht. | Sie ist glücklich über das Laufrad. |
 | Amelie: Töpfchen, keine Windeln mehr! | Sie ist stolz. |
+| Amelie: Töpfchen! Mama klatscht. | Mama ist stolz auf Amelie. |
 | Jonathan: Schnuller wieder da, nuckelt leise. | Er ist zuFRIEden. |
 | Klara beißt Teddy. Luisa: „Klara ist blöd!“ | Luisa ist böse auf Klara. |
 | Lukas: nachts Bauchschmerzen. Im Zoo schläft er. | Er ist sehr müde. |
@@ -38,10 +40,8 @@
 
 | Situation / Frage | Antwort |
 |---|---:|
-| Paul weint. (Tränen, abwischen) | Mama wischt die ab. |
 | Finn zittert. Ist das Angst? (Angst, kennen) | Ja, die kenne ich. |
-| Nele springt hoch. (Freude, sehen) | Die sieht man! |
-| Pauls Wangen sind nass. (Tränen, nass) | Sie sind nass von denen. |
+| Finn zittert. Mama hilft. (Angst, nehmen) | Mama nimmt ihm die. |
 
 ## Stufe 3 — Fragen
 
@@ -69,6 +69,7 @@
 | Neuer Job, tolles Projekt. | Ich bin sehr zufrieden damit. |
 | Morgen: Zoo! | Die Kinder freuen sich darauf. |
 | Das Laufrad ist schon da. Marie lacht. | Sie freut sich darüber. |
+| Neue Wohnung, endlich viel Platz. | Wir sind glücklich darüber. |
 | Gewitter. Finn sitzt unter dem Tisch. | Er hat Angst davor. |
 | Klara beißt Teddy. Und Luisa? | Sie ist böse auf sie. |
 
@@ -155,6 +156,34 @@
 
 ## Nuancen
 
+### Präpositionen in diesem Thema
+
+Предлог — часть слова, учим его вместе со словом, как артикль. Правила нет, и с русским он часто не совпадает.
+
+| Слово + предлог | Вопрос | da-Wort / Person |
+|---|---|---|
+| stolz **auf** + Akk | worauf? / auf wen? | darauf / auf sie |
+| böse **auf** + Akk | auf wen? | auf ihn |
+| wütend **auf** + Akk | worauf? / auf wen? | darauf / auf ihn |
+| wütend **über** + Akk | worüber? | darüber |
+| gemein **zu** + Dat | zu wem? | zu ihm |
+| zufrieden **mit** | womit? / mit wem? | damit / mit ihm |
+| glücklich **über** + Akk | worüber? | darüber |
+| traurig **über** + Akk | worüber? | darüber |
+| sich freuen **auf / über / für** + Akk | см. ниже | darauf / darüber / für dich |
+| Angst haben **vor** + Dat | wovor? / vor wem? | davor / vor ihm |
+| weinen **vor** Freude | warum? | — |
+
+**Ловушки:**
+- **stolz auf** — по-русски «гордиться **кем**», без предлога. Не *stolz über*, не *stolz von*.
+- **Angst vor** — «бояться **чего**», без предлога. Не *Angst von*.
+- **gemein zu** — «злой / вредный **по отношению к**». Не *gemein auf*.
+- **glücklich über**, а не *glücklich auf*: у *glücklich* нет значения «ждать с радостью», для этого *sich freuen auf*.
+- **wütend auf / über**: *auf* — злость на мишень (человек, предмет): *Er ist wütend auf das Fahrrad.* *über* — злость из-за ситуации: *Ich bin wütend darüber, dass der Bus zu spät ist.*
+- **böse auf** + человек: *Sie ist böse auf Klara.* С предметом говорят *sich ärgern über*.
+- **jemanden vermissen** — «скучать **по** кому-то», а в немецком **без предлога**, просто Akk: *Er vermisst Lisa.* Не *vermissen nach*.
+- **jemanden trösten** — тоже без предлога: *Mama tröstet ihn.*
+
 ### sich freuen auf vs. über vs. für
 
 **Критерий — время и адресат радости.**
@@ -178,6 +207,15 @@
 - Nele freut sich auf ihren Geburtstag morgen.
 - Heute ist der Geburtstag. Sie freut sich über die Geschenke.
 - Oma ruft an: „Ich freue mich für dich, mein Schatz!“
+
+### jemandem die Angst nehmen
+
+**jemandem (Dat) die Angst nehmen** — избавить кого-то от страха, успокоить. Дословно «забрать у кого-то страх».
+
+- *Mama nimmt Finn die Angst.* — мама успокаивает Финна, и он больше не боится.
+- *Mama nimmt ihm die.* — то же, но *die* заменяет *die Angst*.
+
+Здесь *die Angst* стоит с артиклем, а в *Ich habe Angst* артикля нет.
 
 ### -ig vs. -lich (Rechtschreibung)
 

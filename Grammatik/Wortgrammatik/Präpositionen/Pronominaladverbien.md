@@ -3,8 +3,10 @@
 > **Sache** + Präposition → **da(r)- + Präposition**: *damit, daran, darüber*. **r**, wenn die Präposition mit Vokal beginnt: *dar-an, dar-über*.
 > **Person** + Präposition → Präposition + Pronomen: *mit ihm, an sie, über ihn*.
 > **Fragen**: Sache → **wo(r)-**: *womit? woran? worüber?* · Person → *mit wem? an wen? über wen?*
+> **Welches da-Wort?** Das entscheidet die Präposition des Wortes: *stolz **auf*** → *dar**auf***. Keine Regel: die Präposition lernt man mit dem Wort, im jeweiligen Thema.
 > **Umgangssprache**: *dran, drüber*: *Ich bin dran. Wir reden später drüber.*
 > **Verben**: **mit** — spielen, anfangen, aufhören, zufrieden sein · **an** — denken, sich erinnern, arbeiten · **über** — sprechen, sich freuen, sich ärgern, lachen
+> **Nuancen**: Präposition des Wortes → da-Wort — siehe [unten](#nuancen).
 
 ## Stufe 1 — Sache → da-Wort
 
@@ -83,3 +85,55 @@
 | Der Fehler ist passiert, man kann nichts mehr machen. | Daran ist nichts zu ändern. |
 | Kollege fragt nach deinem Gehalt. | Darüber spricht man nicht. |
 | Witz über eine Krankheit. Du sagst ernst: | Darüber lacht man nicht. |
+
+## Stufe 7 — Präposition des Wortes → da-Wort
+
+| Situation / Frage | Antwort |
+|---|---:|
+| Amelie: keine Windeln mehr! Mama strahlt. | Sie ist stolz darauf. |
+| Gewitter heute Nacht. Finn zittert. | Er hat Angst davor. |
+| Kollege: „Machst du das Protokoll?“ Kein Problem. | Ich kümmere mich darum. |
+| Neue Wohnung, endlich viel Platz. | Wir sind glücklich darüber. |
+| Server im Büro. Das ist deine Aufgabe. | Ich bin dafür verantwortlich. |
+| Lukas will einen Hund. Jede Nacht im Kopf. | Er träumt davon. |
+| Paket kommt heute. Du bleibst zu Hause. | Ich warte darauf. |
+| Der Bus kommt schon wieder nicht. | Ich bin wütend darüber. |
+| Pizza zum Abendessen? Die Kinder: „Ja!“ | Sie haben Lust darauf. |
+| Neues Programm, du kennst jede Funktion. | Ich bin gut darin. |
+
+---
+
+## Nuancen
+
+### Präposition des Wortes → da-Wort
+
+**Главное:** da-Wort не выбирается по смыслу и не переводится с русского. Его даёт **предлог, который «прицеплен» к слову**: какой предлог у слова, такой и в da-Wort.
+
+| Слово + предлог | Вопрос | da-Wort |
+|---|---|---|
+| stolz **auf** + Akk | worauf? / auf wen? | **darauf** |
+| warten **auf** + Akk | worauf? / auf wen? | **darauf** |
+| Lust haben **auf** + Akk | worauf? | **darauf** |
+| zufrieden **mit** | womit? / mit wem? | **damit** |
+| glücklich **über** + Akk | worüber? | **darüber** |
+| wütend **über** + Akk | worüber? | **darüber** |
+| sich kümmern **um** | worum? / um wen? | **darum** |
+| Angst haben **vor** + Dat | wovor? / vor wem? | **davor** |
+| träumen **von** | wovon? / von wem? | **davon** |
+| verantwortlich **für** | wofür? / für wen? | **dafür** |
+| gut **in** + Dat | worin? | **darin** |
+
+**Почему правила нет.** Предлог исторически закрепился за словом, и в русском он часто другой или его нет вовсе:
+- *stolz **auf*** — «гордиться **кем-то**» (в русском предлога нет)
+- *Angst **vor*** — «бояться **чего-то**» (в русском тоже без предлога)
+- *träumen **von*** — «мечтать **о**»
+- *gut **in*** — «хорош **в**» (здесь совпадает)
+
+**Слово с двумя предлогами — разный смысл:**
+- *wütend **auf*** — злость на мишень: *Ich bin wütend auf den Busfahrer.* → *auf ihn / darauf*
+- *wütend **über*** — злость из-за ситуации: *Ich bin wütend über die Verspätung.* → *darüber*
+- *sich freuen **auf / über / für*** — см. `Themen/Gefühle.md`, Nuancen.
+
+**Как учить:** предлог запоминаем вместе со словом, как артикль у существительного: не *stolz*, а *stolz auf*. Пары слов живут в своих темах, в блоке **Präpositionen in diesem Thema**. Отсюда только связь «предлог → da-Wort».
+
+**Проверка:** назови слово с предлогом (*stolz auf*), затем *da(r)-* + этот предлог (*darauf*). Если предлог начинается с гласной, вставляется *r*: *dar-auf, dar-über, dar-um, dar-in*.
