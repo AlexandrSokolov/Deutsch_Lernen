@@ -1,5 +1,19 @@
 # Baby & Kleinkind
 
+> **Nuancen**: Präpositionen in diesem Thema — siehe [unten](#nuancen).
+
+## Stufe 0a — Lesetext
+
+**Ein Morgen mit Lotta und Amelie**
+
+Am Morgen liegt Baby Lotta auf der Krabbeldecke. Sie strampelt mit den Beinen und brabbelt: „Ba-ba-ba!“ Oh, die Windel ist voll. Mama wickelt Lotta. Ihre große Schwester Amelie braucht keine Windel mehr, sie sitzt schon auf dem Töpfchen. Dann hat Lotta Hunger und trinkt aus dem Fläschchen. Danach nuckelt sie zufrieden an ihrem Schnuller. Papa legt sie in den Kinderwagen und schiebt sie in den Park. Nach fünf Minuten schläft Lotta ein.
+
+## Stufe 0b — Lückentext
+
+**Ein Morgen mit Lotta und Amelie**
+
+Am Morgen liegt Baby Lotta auf \_\_\_ \_\_\_. Sie \_\_\_ mit den Beinen und \_\_\_: „Ba-ba-ba!“ Oh, \_\_\_ \_\_\_ ist voll. Mama \_\_\_ Lotta. Ihre große Schwester Amelie braucht keine \_\_\_ mehr, sie sitzt schon auf \_\_\_ \_\_\_. Dann hat Lotta Hunger und trinkt aus \_\_\_ \_\_\_. Danach \_\_\_ sie zufrieden an ihrem \_\_\_. Papa legt sie in \_\_\_ \_\_\_ und \_\_\_ sie in den Park. Nach fünf Minuten \_\_\_ Lotta.
+
 ## Stufe 1a — Nomen
 
 | Situation / Frage | Antwort |
@@ -22,7 +36,7 @@
 | Kinderwagen, Mama geht dahinter. | Sie schiebt den Kinderwagen. |
 | Stella, lange wach … endlich! | Sie schläft ein. |
 
-## Stufe 2 — Artikel (der / den / dem)
+## Stufe 2 — Artikel
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -30,14 +44,13 @@
 | Lotta spielt. (Krabbeldecke, liegen auf) | Sie liegt auf der. |
 | Das Baby hat Hunger. (Fläschchen, holen) | Hol mir das! |
 | Papa geht im Park spazieren. (Kinderwagen, schieben) | Er schiebt den. |
-| Die Packung ist neu. (Windeln, zeigen) | Zeig mir die! |
+| Die Windel ist voll. (Windel, wegwerfen) | Wirf die weg! |
 | Baby weint, kein Gummi im Mund. (Schnuller, wo?) | Wo ist der denn? |
 | Sofie hat Durst. (Fläschchen, trinken aus) | Sie trinkt aus dem. |
 | Amelie muss mal. (Töpfchen, sich setzen auf) | Sie setzt sich auf das. |
 | Theo ist müde. (Kinderwagen, schlafen in) | Er schläft in dem. |
 | Lotta will spielen. (Krabbeldecke, wo?) | Wo ist die? |
 | Jonathan ist still. (Schnuller, nuckeln an) | Er nuckelt an dem. |
-| Neue Windeln, Lotta ist trocken. (gut klappen mit) | Es klappt gut mit denen. |
 | Amelie sucht es überall. (Töpfchen, wo?) | Wo ist das? |
 
 ## Stufe 3 — Fragen
@@ -58,7 +71,14 @@
 | \_\_\_ w\_\_ brabbelt das Baby? (Bruder) | (Mit wem?) Es brabbelt mit seinem Bruder. |
 | W\_\_ braucht Amelie nicht mehr? (Windeln) | (Was?) Sie braucht keine Windeln mehr. |
 
-## Stufe 4 — Imperativ
+## Stufe 4 — da-Wörter
+
+| Situation / Frage | Antwort |
+|---|---:|
+| Jonathan hat den Schnuller im Mund. Er ist ganz still. | Er nuckelt daran. |
+| Dein Sohn hat schon wieder den Daumen im Mund. | Er nuckelt schon wieder daran. |
+
+## Stufe 5 — Imperativ
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -69,7 +89,7 @@
 | Das Baby ist müde, du singst leise. | Schlaf schön ein, mein Schatz! |
 | Die Kinder liegen im Bett und flüstern noch. | Jetzt schlaft schön ein! |
 
-## Stufe 5 — Zeiten
+## Stufe 6 — Zeiten
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -83,7 +103,7 @@
 | Lotta hat eine volle Windel, deine Frau telefoniert. Du fragst: (sollen) | Soll ich sie wickeln? |
 | Theo läuft jetzt selbst, der Kinderwagen bleibt zu Hause. (müssen, nicht mehr) | Mama muss ihn nicht mehr schieben. |
 
-## Stufe 6 — Ausdrücke
+## Stufe 7 — Ausdrücke
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -96,7 +116,7 @@
 | Bekannte fragen: „Braucht Amelie noch Windeln?“ Du sagst stolz: | Nein, sie geht schon aufs Töpfchen. |
 | Theo will auch liegen und gefahren werden. | Für den Kinderwagen bist du schon zu groß! |
 
-## Stufe 7a — Adjektiv + Nomen
+## Stufe 8a — Adjektiv + Nomen
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -108,7 +128,7 @@
 | Der Schnuller ist blau. Wo ist d\_ blau\_ Schnuller? | Wo ist der blaue Schnuller? |
 | Das Töpfchen ist rot. Dies\_ rot\_ Töpfchen gehört Amelie. | Dieses rote Töpfchen gehört Amelie. |
 
-## Stufe 7b — Adverb + Verb
+## Stufe 8b — Adverb + Verb
 
 | Situation / Frage | Antwort |
 |---|---:|
@@ -117,4 +137,23 @@
 | Schnuller im Mund, Jonathan lächelt. | Er nuckelt zufrieden. |
 | Das Baby lacht und macht „Ba-ba“, ganz für sich. | Es brabbelt fröhlich vor sich hin. |
 | Das Baby schläft im Kinderwagen, Papa will es nicht wecken. | Er schiebt den Kinderwagen ganz langsam. |
-| Kaum im Bett, schon schläft er. (Perfekt) | Er ist sofort eingeschlafen. |
+| Gestern Abend: kaum im Bett, schon schläft er. | Er ist sofort eingeschlafen. |
+
+---
+
+## Nuancen
+
+### Präpositionen in diesem Thema
+
+| Слово + предлог | Вопрос | da-Wort |
+|---|---|---|
+| nuckeln **an** + Dat | woran? | daran |
+| trinken **aus** + Dat | woraus? | daraus |
+| strampeln **mit** + Dat (den Beinen) | womit? | damit |
+| jemanden wickeln (Akk, без предлога) | wen? | — |
+| etwas schieben (Akk, без предлога) | was? | — |
+
+**Ловушки:**
+- **nuckeln an** — «сосать **что-то**» по-русски без предлога, а в немецком **an** + Dat: *am Schnuller, am Daumen nuckeln*. Не *den Schnuller nuckeln*.
+- **trinken aus** — «пить **из** бутылочки», совпадает с русским: *aus dem Fläschchen*.
+- **Wo? / Wohin?** — у мест в этой теме падеж зависит от вопроса: *Wo sitzt Amelie?* → *auf **dem** Töpfchen* (Dat). *Wohin setzt sie sich?* → *auf**s** Töpfchen* (Akk). Так же: *im Kinderwagen* (wo?) — *in **den** Kinderwagen* (wohin?).

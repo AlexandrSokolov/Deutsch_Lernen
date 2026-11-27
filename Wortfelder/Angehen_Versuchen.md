@@ -5,21 +5,33 @@
 > **Perfekt mit haben**: versucht, ausprobiert, angegangen, sich bemüht. **Mit sein**: herangegangen (*Wie bist du an die Aufgabe herangegangen?*)
 > **Vorsicht**: *Ich habe das Problem angegangen* (= angefangen, es zu lösen), aber *Das Licht ist angegangen* (= an).
 > **Umgangssprache**: ausprobieren · **neutral / Arbeit**: angehen, herangehen an · **formell**: sich bemühen
-> **Nuancen**: versuchen / ausprobieren, angehen / herangehen an, versuchen / sich bemühen — siehe [unten](#nuancen).
+> **Nuancen**: Präpositionen in diesem Thema · versuchen / ausprobieren, angehen / herangehen an, versuchen / sich bemühen — siehe [unten](#nuancen).
+
+## Stufe 0a — Lesetext
+
+**Der Bug am Montag**
+
+Am Montag ist ein großer Bug im System. Der Chef sagt: „Wir gehen das Problem heute an.“ Ich versuche zuerst einen Neustart, aber nichts passiert. Dann probiere ich ein neues Tool aus. Mein Kollege geht anders an das Problem heran: Er liest zuerst die Logs. Der Kunde wartet, und wir bemühen uns um eine schnelle Lösung. Am Abend versuche ich es noch einmal, und es klappt!
+
+## Stufe 0b — Lückentext
+
+**Der Bug am Montag**
+
+Am Montag ist ein großer Bug im System. Der Chef sagt: „Wir \_\_\_ das Problem heute.“ Ich \_\_\_ zuerst einen Neustart, aber nichts passiert. Dann \_\_\_ ich ein neues Tool. Mein Kollege \_\_\_ anders an das Problem: Er liest zuerst die Logs. Der Kunde wartet, und wir \_\_\_ um eine schnelle Lösung. Am Abend \_\_\_ ich es noch einmal, und es klappt!
 
 ## Stufe 1 — Situation → Verb
 
 | Situation / Frage | Antwort |
 |---|---:|
-| Erstes Mal ohne Stützräder. Vielleicht klappt's. | Er versucht es. |
+| Erstes Mal ohne Stützräder. Vielleicht klappt's. | Er verSUCHT es. |
 | Tür klemmt. Noch mal! | Ich versuche es noch einmal. |
 | Neues Restaurant, noch nie dort. | Wir probieren das neue Restaurant aus. |
 | Neue App, erst mal testen. | Ich probiere die App mal aus. |
 | Großes Problem, lange gewartet. Montag: Start. | Am Montag gehen wir das Problem an. |
 | Steuererklärung, schon März. Jetzt endlich! | Ich gehe die Steuererklärung jetzt an. |
-| Kollege: anderer Weg zur Lösung als du. | Er geht anders an das Problem heran. / Er geht das Problem anders an. |
+| Kollege: anderer Weg zur Lösung als du. | Er geht anders an das Problem herAN. / Er geht das Problem anders an. |
 | Neuer Job, viel Unbekanntes, keine Panik. | Ich gehe ruhig an die Sache heran. |
-| Hotel voll. Die Rezeption telefoniert lange für dich. | Sie bemüht sich sehr. |
+| Hotel voll. Die Rezeption telefoniert lange für dich. | Sie beMÜHT sich sehr. |
 | Deutsch: noch Fehler, aber jeden Tag lernen. | Ich bemühe mich. |
 
 ## Stufe 2 — Artikel
@@ -107,6 +119,22 @@
 ---
 
 ## Nuancen
+
+### Präpositionen in diesem Thema
+
+| Слово + предлог | Вопрос | da-Wort / Person |
+|---|---|---|
+| herangehen **an** + Akk | woran? | daran |
+| sich bemühen **um** + Akk | worum? / um wen? | darum / um sie |
+| etwas angehen (Akk, без предлога) | was? | es |
+| etwas versuchen (Akk) / versuchen, … zu | was? | es |
+| etwas ausprobieren (Akk, без предлога) | was? | es |
+
+**Ловушки:**
+- **angehen** и **herangehen an** — почти одно слово, но управление разное: *das Problem angehen* (Akk, **без** предлога), *an das Problem herangehen* (**an** + Akk). Не *an das Problem angehen*.
+- **herangehen an** + **Akk**, а не Dat: *an **die** Aufgabe*, *an **das** Projekt*. Это движение к задаче, как *Wohin?*
+- **sich bemühen um** — «добиваться чего-то» или «заботиться о ком-то», в немецком **um**: *sich **um** eine Stelle bemühen*, *sich **um** die neuen Kinder bemühen*.
+- **versuchen** — «пытаться» без предлога: *Ich versuche es*, *Ich versuche, … zu …*. Не *versuchen um*.
 
 ### versuchen vs. ausprobieren
 

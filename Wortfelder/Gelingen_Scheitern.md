@@ -5,7 +5,19 @@
 > Die Person: *Ich schaffe das. Ich kriege das hin. Ich komme damit zurecht. Ich bewältige das. Ich scheitere daran.*
 > **Perfekt mit sein**: gelungen, misslungen, gescheitert, fehlgeschlagen, schiefgegangen, zurechtgekommen. **Mit haben**: geklappt, funktioniert, geschafft, hingekriegt, bewältigt.
 > **Umgangssprache**: klappen, hinkriegen, schiefgehen · **formell**: bewältigen, misslingen, fehlschlagen.
-> **Nuancen**: schaffen / bewältigen, scheitern / misslingen / schiefgehen, klappen / passen — siehe [unten](#nuancen).
+> **Nuancen**: Präpositionen in diesem Thema · schaffen / bewältigen, scheitern / misslingen / schiefgehen, klappen / passen — siehe [unten](#nuancen).
+
+## Stufe 0a — Lesetext
+
+**Release-Tag**
+
+Heute ist Release. Am Morgen geht alles schief: Der Kaffee ist kalt, und der Bus kommt zu spät. Im Büro schlägt das erste Deployment fehl. Mein Kollege sagt: „Keine Panik, das kriegen wir hin.“ Wir starten den Server neu, und jetzt funktioniert alles wieder. Der neue Kollege kommt gut mit dem System zurecht. Nur ein kleines Feature misslingt uns, es sieht nicht schön aus. Ein anderes Team scheitert an der Deadline. Aber wir schaffen es: Um 17 Uhr ist der Release live! Der Chef lacht: „Ihr bewältigt jede Krise.“ Zu Hause backt meine Tochter einen Kuchen, und er gelingt ihr super. Meine Frau fragt: „Und? Klappt morgen das Kino?“ Ja, das klappt.
+
+## Stufe 0b — Lückentext
+
+**Release-Tag**
+
+Heute ist Release. Am Morgen \_\_\_ alles: Der Kaffee ist kalt, und der Bus kommt zu spät. Im Büro \_\_\_ das erste Deployment. Mein Kollege sagt: „Keine Panik, das \_\_\_ wir.“ Wir starten den Server neu, und jetzt \_\_\_ alles wieder. Der neue Kollege \_\_\_ gut mit dem System. Nur ein kleines Feature \_\_\_ uns, es sieht nicht schön aus. Ein anderes Team \_\_\_ an der Deadline. Aber wir \_\_\_ es: Um 17 Uhr ist der Release live! Der Chef lacht: „Ihr \_\_\_ jede Krise.“ Zu Hause backt meine Tochter einen Kuchen, und er \_\_\_ ihr super. Meine Frau fragt: „Und? \_\_\_ morgen das Kino?“ Ja, das \_\_\_.
 
 ## Stufe 1 — Situation → Verb
 
@@ -13,11 +25,11 @@
 |---|---:|
 | Dienstag, 10 Uhr? Kein Problem. | Ja, Dienstag klappt. |
 | Drucker war kaputt, jetzt druckt er. | Er funktioNIERT wieder. |
-| Erster Kuchen, sieht super aus. | Der Kuchen ist mir gelungen. |
+| Erster Kuchen, sieht super aus. | Der Kuchen ist mir geLUNgen. |
 | Prüfung bestanden, endlich! | Ich habe es geschafft! |
 | Fahrrad kaputt, Papa repariert selbst. | Papa kriegt das hin. |
 | Neues Programm, keine Probleme. | Ich komme gut damit zuRECHT. |
-| Krise in der Firma, am Ende alles gut. | Die Firma hat die Krise bewältigt. |
+| Krise in der Firma, am Ende alles gut. | Die Firma hat die Krise beWÄLtigt. |
 | Projekt, kein Geld, Ende. | Das Projekt scheitert am Geld. |
 | Kuchen schwarz, total verbrannt. | Der Kuchen ist mir missLUNgen. |
 | Update installiert, Fehlermeldung. | Das Update ist fehlgeschlagen. |
@@ -31,7 +43,7 @@
 
 | Situation / Frage | Antwort |
 |---|---:|
-| \_\_\_ w\_\_\_ hat es endlich geklappt? (Job) | (Womit?) Mit dem Job. |
+| W\_\_\_ hat es endlich geklappt? (Job) | (Womit?) Mit dem Job. |
 | W\_\_ funktioniert nicht? (Drucker) | (Was?) Der Drucker funktioniert nicht. |
 | W\_\_ gelingt der Kuchen immer? (Oma) | (Wem?) Meiner Oma gelingt er immer. |
 | W\_\_ ist der Kuchen misslungen? (Papa) | (Wem?) Papa ist er misslungen. |
@@ -123,6 +135,23 @@
 ---
 
 ## Nuancen
+
+### Präpositionen in diesem Thema
+
+| Слово + предлог | Вопрос | da-Wort / Person |
+|---|---|---|
+| zurechtkommen **mit** + Dat | womit? / mit wem? | damit / mit ihm |
+| scheitern **an** + Dat | woran? | daran |
+| es klappt **mit** + Dat | womit? | damit |
+| jemandem gelingen / misslingen (Dat, без предлога) | wem? | ihm |
+| etwas schaffen / bewältigen / hinkriegen (Akk, без предлога) | was? | es |
+
+**Ловушки:**
+- **scheitern an** — «провалиться **на** чём-то» или «**из-за** чего-то», в немецком всегда **an** + Dat: *am Geld, an der Prüfung, an der Grammatik scheitern*. Не *wegen*, не *auf*.
+- **gelingen / misslingen** — подлежащее не человек, а дело. Человек стоит в **Dativ**: *Mir gelingt der Kuchen*, не *Ich gelinge*. Как русское «мне удаётся».
+- **zurechtkommen mit** — «справляться **с**», совпадает с русским: *mit dem Programm, mit dem Kollegen*.
+- **es klappt mit** — «получилось **с** чем-то»: *Mit dem Job hat es geklappt.* Без *mit*, если подлежащее само дело: *Der Job hat geklappt.*
+- **schaffen, bewältigen, hinkriegen** — прямой Akk, без предлога: «справиться **с** задачей» ≠ *mit der Aufgabe schaffen*. Правильно: *die Aufgabe schaffen*.
 
 ### schaffen vs. bewältigen
 

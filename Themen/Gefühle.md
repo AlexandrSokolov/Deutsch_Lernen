@@ -2,6 +2,18 @@
 
 > **Nuancen**: Präpositionen in diesem Thema · sich freuen auf / über / für · jemandem die Angst nehmen · -ig / -lich — siehe [unten](#nuancen).
 
+## Stufe 0a — Lesetext
+
+**Ein Tag mit Paul und Nele**
+
+Paul vermisst seine Schwester Lisa. Er ist traurig und hat Tränen in den Augen. Dann weint er laut. Mama nimmt ihn in den Arm und tröstet ihn. Nele ist gemein zu Paul und nimmt ihm den Ball weg. Paul ist wütend auf Nele, und Mama ist böse auf sie. Am Nachmittag kommt ein Gewitter, und Paul hat Angst vor dem Donner. Am Abend ruft Lisa an: „Ich komme morgen!“ Paul springt vor Freude. Er freut sich auf morgen. Nele malt ein Bild für Lisa, und Mama ist stolz auf sie. Nele ist zufrieden mit ihrem Bild, und Paul freut sich über das Bild. Am Ende sind alle glücklich. Aber Paul ist sehr müde. Er will heute nicht allein schlafen.
+
+## Stufe 0b — Lückentext
+
+**Ein Tag mit Paul und Nele**
+
+Paul \_\_\_ seine Schwester Lisa. Er ist \_\_\_ und hat \_\_\_ in den Augen. Dann \_\_\_ er laut. Mama nimmt ihn in den Arm und \_\_\_ ihn. Nele ist \_\_\_ zu Paul und nimmt ihm den Ball weg. Paul ist \_\_\_ auf Nele, und Mama ist \_\_\_ auf sie. Am Nachmittag kommt ein Gewitter, und Paul hat \_\_\_ vor dem Donner. Am Abend ruft Lisa an: „Ich komme morgen!“ Paul springt vor \_\_\_. Er \_\_\_ auf morgen. Nele malt ein Bild für Lisa, und Mama ist \_\_\_ auf sie. Nele ist \_\_\_ mit ihrem Bild, und Paul \_\_\_ über das Bild. Am Ende sind alle \_\_\_. Aber Paul ist sehr \_\_\_. Er will heute nicht \_\_\_ schlafen.
+
 ## Stufe 1a — Nomen
 
 | Situation / Frage | Antwort |
